@@ -40,3 +40,8 @@ Manage Accounts
 Manage Appointments
 
 ![](images/manageappointments.png)
+
+
+UML Class Diagram
+
+![UML_Classes-Page-1 drawio](https://github.com/jrendon02/CliniCare/assets/161375283/860ffe47-2892-4ece-86f0-35f1b23ef8ed)
