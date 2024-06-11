@@ -16,3 +16,27 @@ This is a hospital management system called CliniCare. The purpose of the Clinic
 ![](images/MySQL.png)
 
 # ScreenShots
+
+Login
+
+![](images/login.png)
+
+Login Dashboard
+
+![](images/patientDashboard.png)
+
+New Account
+
+![](images/Registration.png)
+
+Admin Dashboard
+
+![](images/AdminDashboard.png)
+
+Manage Accounts
+
+![](images/patientrecord.png)
+
+Manage Appointments
+
+![](images/manageappointments.png)
